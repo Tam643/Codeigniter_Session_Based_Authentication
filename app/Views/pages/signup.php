@@ -4,7 +4,7 @@
       <div class="card">
         <article class="card-body">
           <h4 class="card-title text-center mb-4 mt-1"><strong>Sign up</strong></h4>
-          <form>
+          <form  method="post" action="/signup" accept-charset="utf-8">
             <div class="form-group">
               <label class="mb-1">Email</label>
               <input

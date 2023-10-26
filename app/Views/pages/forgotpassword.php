@@ -16,9 +16,9 @@
               />
             </div>
             <div class="mt-4 mb-2 d-grid">
-                <button type="submit" class="btn btn-primary">
-                    Continue
-                </button>
+              <button type="submit" class="btn btn-primary">
+                Continue
+              </button>
             </div>
             <a href="/">Back to Sign in</a>
             <!-- form-group// -->
